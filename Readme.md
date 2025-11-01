@@ -1,0 +1,1 @@
+![tp6testes.PNG](student-management/src/images/tp6testes.PNG)![TP6SWAGGER.PNG](student-management/src/images/TP6SWAGGER.PNG)![tp6spring.PNG](student-management/src/images/tp6spring.PNG)![tp6post.PNG](student-management/src/images/tp6post.PNG)![tp6get.PNG](student-management/src/images/tp6get.PNG)![delete.PNG](student-management/src/images/delete.PNG)
